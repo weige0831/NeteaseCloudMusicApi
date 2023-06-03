@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "meta-viewport": "off",
+    "detect-css-reflows/composite": "off",
+    "disown-opener": "off"
+  }
+}
